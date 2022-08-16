@@ -11,7 +11,7 @@ print("""
   \__ \\__ \     / / / / / / / / / /  
  ___/ /__/ /    / / / /_/ / /_/ / /___r
 /____/____/    /_/  \____/\____/_____/
-        sstool made by patrick
+        sstool made by patrickop#5498
                                       
 """)
 def downloadtool():
